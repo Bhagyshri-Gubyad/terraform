@@ -15,3 +15,5 @@ tags ={
 Name=”tagwala-${count.index+1}”
 }
 }
+
+using export in ec2-terminal give access key and secret key value
